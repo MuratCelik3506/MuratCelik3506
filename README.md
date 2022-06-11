@@ -9,6 +9,7 @@
 - 📫 How to reach me **muratcelik35.06@gmail.com**
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muratcelik35/)
+[![](https://miro.medium.com/max/1336/1*A6F1FuQRwjHN9kmL2VY2sw.png)](https://www.kaggle.com/muratcelik35)
 
 
 
