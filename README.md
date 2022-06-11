@@ -8,9 +8,8 @@
 - 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me **muratcelik35.06@gmail.com**
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muratcelik35/)
-[![](https://miro.medium.com/max/1336/1*A6F1FuQRwjHN9kmL2VY2sw.png)](https://www.kaggle.com/muratcelik35)
- <img src="https://miro.medium.com/max/1336/1*A6F1FuQRwjHN9kmL2VY2sw.png" alt="kaggle" height="50" width="100"/> 
+<a href="https://www.linkedin.com/in/muratcelik35/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/80/LinkedIn_Logo_2013.svg" alt="linkedin" height="40" width="100"/></a>
+<a href="https://www.kaggle.com/muratcelik35"><img src="https://miro.medium.com/max/1336/1*A6F1FuQRwjHN9kmL2VY2sw.png" alt="kaggle" height="40" width="100"/></a>
 
 
 
