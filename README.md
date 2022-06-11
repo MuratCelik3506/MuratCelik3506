@@ -10,7 +10,6 @@
 
 <a href="https://www.linkedin.com/in/muratcelik35/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/80/LinkedIn_Logo_2013.svg" alt="linkedin" height="40" width="100"/></a> 
 &nbsp; &nbsp; &nbsp; &nbsp;
-
 <a href="https://www.kaggle.com/muratcelik35"><img src="https://miro.medium.com/max/1336/1*A6F1FuQRwjHN9kmL2VY2sw.png" alt="kaggle" height="40" width="100"/></a>
 
 
