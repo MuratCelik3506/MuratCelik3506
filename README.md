@@ -2,10 +2,10 @@
   <img width="600" height="300" src="https://github.com/MuratCelik3506/MuratCelik3506/blob/main/name.gif">
 </p>
 <h1 align="center"></h1>
-<h3 align="center">Hacettepe University Computer Science/Engineering 3rd year Student </h3>
+<h3 align="center">Hacettepe University Computer Engineering Senior Student </h3>
 
-- 👀 I’m interested in Data Science, Machine Learning
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in Data Science, Artificial Intelligence
+- 🌱 I’m currently learning Computer Vision and Natural Language Processing
 - 📫 How to reach me **muratcelik35.06@gmail.com**
 
 
