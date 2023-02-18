@@ -12,6 +12,18 @@
 &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://www.kaggle.com/muratcelik35"><img src="https://miro.medium.com/max/1336/1*A6F1FuQRwjHN9kmL2VY2sw.png" alt="kaggle" height="40" width="100"/></a>
 
+<div style=" width: 380px; height: 72px; margin: auto;">
+  <a href="https://www.linkedin.com/in/muratcelik35/"><img src="img/linkedin.png"
+          style="height: 72px; width: 72px;"></a>
+  <a href="https://github.com/MuratCelik3506"><img src="img/github.png"
+          style="height: 72px; width: 72px;"></a>
+  <a href="https://raw.githubusercontent.com/MuratCelik3506/muratcelik3506.github.io/gh-pages/Murat_Celik_CV.pdf"><img src="img/resume.png" style="height: 72px; width: 72px;"></a>
+  <a href="https://medium.com/@muratcelik35-06"><img src="img/medium.png"
+          style="height: 72px; width: 72px;"></a>
+  <a href="https://www.instagram.com/murat.celik.8197/"><img src="img/insta.png"
+          style="height: 72px; width: 72px;"></a>
+</div>
+
 
 
 
