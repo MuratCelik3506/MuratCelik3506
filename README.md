@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="600" height="300" src="https://github.com/MuratCelik3506/MuratCelik3506/blob/main/name.gif">
-</p>
-
 <h1 align="center">Murat Celik</h1>
 <h3 align="center">Artificial Intelligence Engineer @ Nokia | Data Science MSc Student @ Politecnico di Torino</h3>
 
